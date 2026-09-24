@@ -1,8 +1,4 @@
 ## Hi there 👋
-Ola Mundo!!!!
-
-
-Eu comi pastel
 <!--
 **cauanveloso/cauanveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
