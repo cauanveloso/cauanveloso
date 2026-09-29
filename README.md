@@ -1,4 +1,4 @@
-# Tcnologias
+# Technologies
 - C
 - C#
 - C++
